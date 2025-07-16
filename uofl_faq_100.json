@@ -1,402 +1,101 @@
 [
-  {
-    "question": "Where can I get my Cardinal Card?",
-    "answer": "Visit the Cardinal Card Office in SAC W101, open weekdays from 9 AM to 5 PM."
-  },
-  {
-    "question": "How do I register for classes?",
-    "answer": "Use ULink at ulink.louisville.edu and navigate to 'Student Services' to register."
-  },
-  {
-    "question": "What dining options are available on campus?",
-    "answer": "Dining options include Chick-fil-A, Panda Express, Subway, Ville Grill, and more in the Student Activities Center."
-  },
-  {
-    "question": "How can I apply for on-campus housing?",
-    "answer": "Go to louisville.edu/housing and fill out the housing application form."
-  },
-  {
-    "question": "Where is the Student Recreation Center?",
-    "answer": "The SRC is located at 1907 S Floyd St and is free for full-time students."
-  },
-  {
-    "question": "How do I access Blackboard?",
-    "answer": "Log in to blackboard.louisville.edu with your ULink credentials."
-  },
-  {
-    "question": "Where can I get free tutoring?",
-    "answer": "The REACH Center in Strickler Hall offers free tutoring and workshops."
-  },
-  {
-    "question": "What is Cardinal Cash?",
-    "answer": "Cardinal Cash is a declining balance account you can use at dining locations and participating off-campus vendors."
-  },
-  {
-    "question": "How do I purchase a parking permit?",
-    "answer": "Buy parking permits through the Parking & Transportation website or via ULink."
-  },
-  {
-    "question": "Where is the Counseling Center?",
-    "answer": "Located in SAC W204, open Monday\u2013Friday 9 AM to 5 PM. Call 502-852-6585."
-  },
-  {
-    "question": "How do I view my transcript?",
-    "answer": "Order unofficial transcripts through ULink under 'Academic Records' or request official ones via the Registrar's Office."
-  },
-  {
-    "question": "Where can I reserve a study room?",
-    "answer": "Reserve rooms in Ekstrom Library via the library website."
-  },
-  {
-    "question": "How do I change my major?",
-    "answer": "Submit a Change of Major form through the Registrar's Office online portal."
-  },
-  {
-    "question": "What career services are offered?",
-    "answer": "The University Career Center offers resume reviews, mock interviews, and job fairs."
-  },
-  {
-    "question": "Where is the campus bookstore?",
-    "answer": "The Barnes & Noble bookstore is in SAC W154, open Monday\u2013Friday 8 AM to 6 PM."
-  },
-  {
-    "question": "How do I request disability accommodations?",
-    "answer": "Contact the Disability Resource Center in the Floyd Street Building, room 110."
-  },
-  {
-    "question": "What shuttle services are available?",
-    "answer": "The Cardinal Shuttle runs on Belknap Campus Monday\u2013Friday, check times on the Parking & Transportation site."
-  },
-  {
-    "question": "Where can I report maintenance issues?",
-    "answer": "Submit maintenance requests via the Housing Portal or call Facilities at 502-852-6250."
-  },
-  {
-    "question": "How do I join a student organization?",
-    "answer": "Visit EngageUofL.com to browse and join over 500 student organizations."
-  },
-  {
-    "question": "Where is the IT HelpDesk?",
-    "answer": "In MITC (Miller IT Center), call 502-852-7997 for tech support."
-  },
-  {
-    "question": "Where can I get my Cardinal Card? (alternate phrasing)",
-    "answer": "Visit the Cardinal Card Office in SAC W101, open weekdays from 9 AM to 5 PM."
-  },
-  {
-    "question": "How do I register for classes? (alternate phrasing)",
-    "answer": "Use ULink at ulink.louisville.edu and navigate to 'Student Services' to register."
-  },
-  {
-    "question": "What dining options are available on campus? (alternate phrasing)",
-    "answer": "Dining options include Chick-fil-A, Panda Express, Subway, Ville Grill, and more in the Student Activities Center."
-  },
-  {
-    "question": "How can I apply for on-campus housing? (alternate phrasing)",
-    "answer": "Go to louisville.edu/housing and fill out the housing application form."
-  },
-  {
-    "question": "Where is the Student Recreation Center? (alternate phrasing)",
-    "answer": "The SRC is located at 1907 S Floyd St and is free for full-time students."
-  },
-  {
-    "question": "How do I access Blackboard? (alternate phrasing)",
-    "answer": "Log in to blackboard.louisville.edu with your ULink credentials."
-  },
-  {
-    "question": "Where can I get free tutoring? (alternate phrasing)",
-    "answer": "The REACH Center in Strickler Hall offers free tutoring and workshops."
-  },
-  {
-    "question": "What is Cardinal Cash? (alternate phrasing)",
-    "answer": "Cardinal Cash is a declining balance account you can use at dining locations and participating off-campus vendors."
-  },
-  {
-    "question": "How do I purchase a parking permit? (alternate phrasing)",
-    "answer": "Buy parking permits through the Parking & Transportation website or via ULink."
-  },
-  {
-    "question": "Where is the Counseling Center? (alternate phrasing)",
-    "answer": "Located in SAC W204, open Monday\u2013Friday 9 AM to 5 PM. Call 502-852-6585."
-  },
-  {
-    "question": "How do I view my transcript? (alternate phrasing)",
-    "answer": "Order unofficial transcripts through ULink under 'Academic Records' or request official ones via the Registrar's Office."
-  },
-  {
-    "question": "Where can I reserve a study room? (alternate phrasing)",
-    "answer": "Reserve rooms in Ekstrom Library via the library website."
-  },
-  {
-    "question": "How do I change my major? (alternate phrasing)",
-    "answer": "Submit a Change of Major form through the Registrar's Office online portal."
-  },
-  {
-    "question": "What career services are offered? (alternate phrasing)",
-    "answer": "The University Career Center offers resume reviews, mock interviews, and job fairs."
-  },
-  {
-    "question": "Where is the campus bookstore? (alternate phrasing)",
-    "answer": "The Barnes & Noble bookstore is in SAC W154, open Monday\u2013Friday 8 AM to 6 PM."
-  },
-  {
-    "question": "How do I request disability accommodations? (alternate phrasing)",
-    "answer": "Contact the Disability Resource Center in the Floyd Street Building, room 110."
-  },
-  {
-    "question": "What shuttle services are available? (alternate phrasing)",
-    "answer": "The Cardinal Shuttle runs on Belknap Campus Monday\u2013Friday, check times on the Parking & Transportation site."
-  },
-  {
-    "question": "Where can I report maintenance issues? (alternate phrasing)",
-    "answer": "Submit maintenance requests via the Housing Portal or call Facilities at 502-852-6250."
-  },
-  {
-    "question": "How do I join a student organization? (alternate phrasing)",
-    "answer": "Visit EngageUofL.com to browse and join over 500 student organizations."
-  },
-  {
-    "question": "Where is the IT HelpDesk? (alternate phrasing)",
-    "answer": "In MITC (Miller IT Center), call 502-852-7997 for tech support."
-  },
-  {
-    "question": "Where can I get my Cardinal Card? (alternate phrasing)",
-    "answer": "Visit the Cardinal Card Office in SAC W101, open weekdays from 9 AM to 5 PM."
-  },
-  {
-    "question": "How do I register for classes? (alternate phrasing)",
-    "answer": "Use ULink at ulink.louisville.edu and navigate to 'Student Services' to register."
-  },
-  {
-    "question": "What dining options are available on campus? (alternate phrasing)",
-    "answer": "Dining options include Chick-fil-A, Panda Express, Subway, Ville Grill, and more in the Student Activities Center."
-  },
-  {
-    "question": "How can I apply for on-campus housing? (alternate phrasing)",
-    "answer": "Go to louisville.edu/housing and fill out the housing application form."
-  },
-  {
-    "question": "Where is the Student Recreation Center? (alternate phrasing)",
-    "answer": "The SRC is located at 1907 S Floyd St and is free for full-time students."
-  },
-  {
-    "question": "How do I access Blackboard? (alternate phrasing)",
-    "answer": "Log in to blackboard.louisville.edu with your ULink credentials."
-  },
-  {
-    "question": "Where can I get free tutoring? (alternate phrasing)",
-    "answer": "The REACH Center in Strickler Hall offers free tutoring and workshops."
-  },
-  {
-    "question": "What is Cardinal Cash? (alternate phrasing)",
-    "answer": "Cardinal Cash is a declining balance account you can use at dining locations and participating off-campus vendors."
-  },
-  {
-    "question": "How do I purchase a parking permit? (alternate phrasing)",
-    "answer": "Buy parking permits through the Parking & Transportation website or via ULink."
-  },
-  {
-    "question": "Where is the Counseling Center? (alternate phrasing)",
-    "answer": "Located in SAC W204, open Monday\u2013Friday 9 AM to 5 PM. Call 502-852-6585."
-  },
-  {
-    "question": "How do I view my transcript? (alternate phrasing)",
-    "answer": "Order unofficial transcripts through ULink under 'Academic Records' or request official ones via the Registrar's Office."
-  },
-  {
-    "question": "Where can I reserve a study room? (alternate phrasing)",
-    "answer": "Reserve rooms in Ekstrom Library via the library website."
-  },
-  {
-    "question": "How do I change my major? (alternate phrasing)",
-    "answer": "Submit a Change of Major form through the Registrar's Office online portal."
-  },
-  {
-    "question": "What career services are offered? (alternate phrasing)",
-    "answer": "The University Career Center offers resume reviews, mock interviews, and job fairs."
-  },
-  {
-    "question": "Where is the campus bookstore? (alternate phrasing)",
-    "answer": "The Barnes & Noble bookstore is in SAC W154, open Monday\u2013Friday 8 AM to 6 PM."
-  },
-  {
-    "question": "How do I request disability accommodations? (alternate phrasing)",
-    "answer": "Contact the Disability Resource Center in the Floyd Street Building, room 110."
-  },
-  {
-    "question": "What shuttle services are available? (alternate phrasing)",
-    "answer": "The Cardinal Shuttle runs on Belknap Campus Monday\u2013Friday, check times on the Parking & Transportation site."
-  },
-  {
-    "question": "Where can I report maintenance issues? (alternate phrasing)",
-    "answer": "Submit maintenance requests via the Housing Portal or call Facilities at 502-852-6250."
-  },
-  {
-    "question": "How do I join a student organization? (alternate phrasing)",
-    "answer": "Visit EngageUofL.com to browse and join over 500 student organizations."
-  },
-  {
-    "question": "Where is the IT HelpDesk? (alternate phrasing)",
-    "answer": "In MITC (Miller IT Center), call 502-852-7997 for tech support."
-  },
-  {
-    "question": "Where can I get my Cardinal Card? (alternate phrasing)",
-    "answer": "Visit the Cardinal Card Office in SAC W101, open weekdays from 9 AM to 5 PM."
-  },
-  {
-    "question": "How do I register for classes? (alternate phrasing)",
-    "answer": "Use ULink at ulink.louisville.edu and navigate to 'Student Services' to register."
-  },
-  {
-    "question": "What dining options are available on campus? (alternate phrasing)",
-    "answer": "Dining options include Chick-fil-A, Panda Express, Subway, Ville Grill, and more in the Student Activities Center."
-  },
-  {
-    "question": "How can I apply for on-campus housing? (alternate phrasing)",
-    "answer": "Go to louisville.edu/housing and fill out the housing application form."
-  },
-  {
-    "question": "Where is the Student Recreation Center? (alternate phrasing)",
-    "answer": "The SRC is located at 1907 S Floyd St and is free for full-time students."
-  },
-  {
-    "question": "How do I access Blackboard? (alternate phrasing)",
-    "answer": "Log in to blackboard.louisville.edu with your ULink credentials."
-  },
-  {
-    "question": "Where can I get free tutoring? (alternate phrasing)",
-    "answer": "The REACH Center in Strickler Hall offers free tutoring and workshops."
-  },
-  {
-    "question": "What is Cardinal Cash? (alternate phrasing)",
-    "answer": "Cardinal Cash is a declining balance account you can use at dining locations and participating off-campus vendors."
-  },
-  {
-    "question": "How do I purchase a parking permit? (alternate phrasing)",
-    "answer": "Buy parking permits through the Parking & Transportation website or via ULink."
-  },
-  {
-    "question": "Where is the Counseling Center? (alternate phrasing)",
-    "answer": "Located in SAC W204, open Monday\u2013Friday 9 AM to 5 PM. Call 502-852-6585."
-  },
-  {
-    "question": "How do I view my transcript? (alternate phrasing)",
-    "answer": "Order unofficial transcripts through ULink under 'Academic Records' or request official ones via the Registrar's Office."
-  },
-  {
-    "question": "Where can I reserve a study room? (alternate phrasing)",
-    "answer": "Reserve rooms in Ekstrom Library via the library website."
-  },
-  {
-    "question": "How do I change my major? (alternate phrasing)",
-    "answer": "Submit a Change of Major form through the Registrar's Office online portal."
-  },
-  {
-    "question": "What career services are offered? (alternate phrasing)",
-    "answer": "The University Career Center offers resume reviews, mock interviews, and job fairs."
-  },
-  {
-    "question": "Where is the campus bookstore? (alternate phrasing)",
-    "answer": "The Barnes & Noble bookstore is in SAC W154, open Monday\u2013Friday 8 AM to 6 PM."
-  },
-  {
-    "question": "How do I request disability accommodations? (alternate phrasing)",
-    "answer": "Contact the Disability Resource Center in the Floyd Street Building, room 110."
-  },
-  {
-    "question": "What shuttle services are available? (alternate phrasing)",
-    "answer": "The Cardinal Shuttle runs on Belknap Campus Monday\u2013Friday, check times on the Parking & Transportation site."
-  },
-  {
-    "question": "Where can I report maintenance issues? (alternate phrasing)",
-    "answer": "Submit maintenance requests via the Housing Portal or call Facilities at 502-852-6250."
-  },
-  {
-    "question": "How do I join a student organization? (alternate phrasing)",
-    "answer": "Visit EngageUofL.com to browse and join over 500 student organizations."
-  },
-  {
-    "question": "Where is the IT HelpDesk? (alternate phrasing)",
-    "answer": "In MITC (Miller IT Center), call 502-852-7997 for tech support."
-  },
-  {
-    "question": "Where can I get my Cardinal Card? (alternate phrasing)",
-    "answer": "Visit the Cardinal Card Office in SAC W101, open weekdays from 9 AM to 5 PM."
-  },
-  {
-    "question": "How do I register for classes? (alternate phrasing)",
-    "answer": "Use ULink at ulink.louisville.edu and navigate to 'Student Services' to register."
-  },
-  {
-    "question": "What dining options are available on campus? (alternate phrasing)",
-    "answer": "Dining options include Chick-fil-A, Panda Express, Subway, Ville Grill, and more in the Student Activities Center."
-  },
-  {
-    "question": "How can I apply for on-campus housing? (alternate phrasing)",
-    "answer": "Go to louisville.edu/housing and fill out the housing application form."
-  },
-  {
-    "question": "Where is the Student Recreation Center? (alternate phrasing)",
-    "answer": "The SRC is located at 1907 S Floyd St and is free for full-time students."
-  },
-  {
-    "question": "How do I access Blackboard? (alternate phrasing)",
-    "answer": "Log in to blackboard.louisville.edu with your ULink credentials."
-  },
-  {
-    "question": "Where can I get free tutoring? (alternate phrasing)",
-    "answer": "The REACH Center in Strickler Hall offers free tutoring and workshops."
-  },
-  {
-    "question": "What is Cardinal Cash? (alternate phrasing)",
-    "answer": "Cardinal Cash is a declining balance account you can use at dining locations and participating off-campus vendors."
-  },
-  {
-    "question": "How do I purchase a parking permit? (alternate phrasing)",
-    "answer": "Buy parking permits through the Parking & Transportation website or via ULink."
-  },
-  {
-    "question": "Where is the Counseling Center? (alternate phrasing)",
-    "answer": "Located in SAC W204, open Monday\u2013Friday 9 AM to 5 PM. Call 502-852-6585."
-  },
-  {
-    "question": "How do I view my transcript? (alternate phrasing)",
-    "answer": "Order unofficial transcripts through ULink under 'Academic Records' or request official ones via the Registrar's Office."
-  },
-  {
-    "question": "Where can I reserve a study room? (alternate phrasing)",
-    "answer": "Reserve rooms in Ekstrom Library via the library website."
-  },
-  {
-    "question": "How do I change my major? (alternate phrasing)",
-    "answer": "Submit a Change of Major form through the Registrar's Office online portal."
-  },
-  {
-    "question": "What career services are offered? (alternate phrasing)",
-    "answer": "The University Career Center offers resume reviews, mock interviews, and job fairs."
-  },
-  {
-    "question": "Where is the campus bookstore? (alternate phrasing)",
-    "answer": "The Barnes & Noble bookstore is in SAC W154, open Monday\u2013Friday 8 AM to 6 PM."
-  },
-  {
-    "question": "How do I request disability accommodations? (alternate phrasing)",
-    "answer": "Contact the Disability Resource Center in the Floyd Street Building, room 110."
-  },
-  {
-    "question": "What shuttle services are available? (alternate phrasing)",
-    "answer": "The Cardinal Shuttle runs on Belknap Campus Monday\u2013Friday, check times on the Parking & Transportation site."
-  },
-  {
-    "question": "Where can I report maintenance issues? (alternate phrasing)",
-    "answer": "Submit maintenance requests via the Housing Portal or call Facilities at 502-852-6250."
-  },
-  {
-    "question": "How do I join a student organization? (alternate phrasing)",
-    "answer": "Visit EngageUofL.com to browse and join over 500 student organizations."
-  },
-  {
-    "question": "Where is the IT HelpDesk? (alternate phrasing)",
-    "answer": "In MITC (Miller IT Center), call 502-852-7997 for tech support."
-  }
+  {"question":"What are the undergraduate application deadlines?","answer":"Fall: January 15; Spring: October 1; Summer: March 1."},
+  {"question":"How do I apply for financial aid?","answer":"Complete the FAFSA at fafsa.gov using UofL’s school code 001999."},
+  {"question":"What majors does UofL offer in engineering?","answer":"Biomedical, Chemical, Civil, Electrical, Industrial, Mechanical, and Computer Engineering."},
+  {"question":"Where can I find the academic calendar?","answer":"On the Registrar’s Office website under “Academic Calendar.”"},
+  {"question":"How do I declare or change my major?","answer":"Submit the Change of Major form via the Registrar’s eForms portal."},
+  {"question":"What is the GPA requirement for the Honors Program?","answer":"A minimum 3.5 cumulative GPA and 27 ACT/1250 SAT score."},
+  {"question":"How do I register for orientation?","answer":"Log in to ULink and click “New Cardinal Orientation” under Student Services."},
+  {"question":"Where is Ekstrom Library located?","answer":"At the south end of Belknap Campus, adjacent to Humanities Quadrangle."},
+  {"question":"What are the library’s operating hours?","answer":"Monday–Thursday 7 AM–2 AM; Friday 7 AM–10 PM; Saturday 9 AM–10 PM; Sunday 9 AM–2 AM."},
+  {"question":"How do I reserve a group study room?","answer":"Use the Ekstrom Library Room Reservation system online."},
+  {"question":"Where can I get help with writing assignments?","answer":"The Writing Center in Ekstrom Library, 3rd floor, offers free tutoring by appointment."},
+  {"question":"What campus shuttle routes are available?","answer":"Belknap Loop, Cardinal Loop, and Health Sciences Loop run Mon–Fri 7 AM–10 PM."},
+  {"question":"How do I purchase a campus parking permit?","answer":"Via ULink’s “Parking & Transportation” tab, choose permit type and payment method."},
+  {"question":"Where can I appeal a parking citation?","answer":"Submit an appeal form online at louisville.edu/parking/appeals."},
+  {"question":"What dining meal plans are offered?","answer":"Gold, Silver, Bronze, and Cardinal Cash–only plans, with varying swipe and dining dollars amounts."},
+  {"question":"How do I find campus dining hours?","answer":"Visit “Dining Services” on UofL’s website and select each location for hours."},
+  {"question":"Where is the Student Activities Center (SAC)?","answer":"Central Belknap Campus at Eastern Parkway and Floyd Street."},
+  {"question":"How do I get involved in student organizations?","answer":"Browse and join groups via EngageUofL.com."},
+  {"question":"What health services are available on campus?","answer":"Student Health Services in SAC W214 offers primary care and counseling."},
+  {"question":"How do I schedule an appointment with Counseling Services?","answer":"Call 502-852-6585 or book online through the Student Health portal."},
+  {"question":"Where is the Career Center?","answer":"Strickler Hall, room 100; offers resume reviews and career fairs."},
+  {"question":"How do I sign up for a career fair?","answer":"Register on Handshake under Events for UofL-hosted fairs."},
+  {"question":"What is ULink?","answer":"UofL’s online student portal for registration, grades, billing, and more."},
+  {"question":"How do I reset my ULink password?","answer":"Use the “Forgot Password” link on the ULink login page and follow prompts."},
+  {"question":"Where can I download Blackboard access instructions?","answer":"On the IT HelpDesk site under “Teaching & Learning Tools → Blackboard.”"},
+  {"question":"What are common student email setup instructions?","answer":"Follow the Office 365 activation guide on the IT HelpDesk site."},
+  {"question":"Where is the Miller IT Center?","answer":"At the corner of Cardinal Boulevard and Belknap Place on Belknap Campus."},
+  {"question":"How do I connect to campus Wi‑Fi?","answer":"Select “UofL Secure” in your device’s Wi‑Fi settings and log in with your ULink credentials."},
+  {"question":"Where can I get free software?","answer":"Log in to Software Download Center via IT HelpDesk for Microsoft, Adobe, and more."},
+  {"question":"What is CardinalCard and how do I get one?","answer":"Your student ID and payment card. Pick it up in SAC W101 with a photo ID."},
+  {"question":"How do I add Cardinal Cash?","answer":"Load funds online via ProCard site or at any Cardinal Card office."},
+  {"question":"Where can I find campus maps?","answer":"On louisville.edu/maps with interactive and PDF versions."},
+  {"question":"How do I get a visitor parking permit?","answer":"Purchase short‑term permits via mobile pay or at permit dispensers."},
+  {"question":"What intramural sports are offered?","answer":"Basketball, soccer, flag football, volleyball, ultimate frisbee, and more."},
+  {"question":"How do I join intramurals?","answer":"Register a team on IMLeagues.com under University of Louisville."},
+  {"question":"Where is the Student Recreation Center?","answer":"1907 S Floyd St; includes gym, pool, and courts."},
+  {"question":"What are Rec Center hours?","answer":"Monday–Thursday 6 AM–11 PM; Friday 6 AM–9 PM; Saturday 9 AM–7 PM; Sunday 11 AM–7 PM."},
+  {"question":"How do I register for group fitness classes?","answer":"Sign up via the UofL Rec mobile app or at the Rec Center front desk."},
+  {"question":"Where can I get immunizations?","answer":"Student Health Services in SAC W214 offers flu shots and required vaccines."},
+  {"question":"How do I request disability accommodations?","answer":"Apply through the Disability Resource Center in Floyd Street Building, room 110."},
+  {"question":"What scholarships are available?","answer":"Browse Merit and Need‑based scholarships on the Financial Aid site."},
+  {"question":"How do I apply for work‑study?","answer":"Check eligibility on your financial aid offer in ULink and accept work‑study award."},
+  {"question":"Where is the Study Abroad office?","answer":"Strickler Hall, room 220; oversees exchange and faculty‑led programs."},
+  {"question":"How do I apply for Study Abroad?","answer":"Complete the online application via MyStudyAbroad portal."},
+  {"question":"What research opportunities exist for undergraduates?","answer":"Summer Research Opportunities Program (SROP) and department internships."},
+  {"question":"Where is the School of Medicine?","answer":"Health Sciences Center campus on South Jackson Street."},
+  {"question":"How do I enroll in graduate programs?","answer":"Apply through Graduate School’s online application and submit transcripts."},
+  {"question":"What is the International Student Services office?","answer":"SAC E201; assists with visas and cultural adjustment."},
+  {"question":"Where can I find tutoring in STEM?","answer":"The STEM Center in Ekstrom Library, 2nd floor, offers drop‑in help."},
+  {"question":"How do I print on campus?","answer":"Use Cardinal Copy Stations with your CardinalCard at multiple locations."},
+  {"question":"Where is the Campus Police station?","answer":"SAC E108; for escorts and safety assistance."},
+  {"question":"How do I sign up for emergency alerts?","answer":"Register your mobile number on uoflsecurity.com under Campus Alerts."},
+  {"question":"Where can I buy textbooks?","answer":"Barnes & Noble UofL Bookstore in SAC W154 or online at bncollege.com."},
+  {"question":"How do I order an official transcript?","answer":"Request through the Registrar’s Office eTranscript service."},
+  {"question":"What is the policy on academic integrity?","answer":"Found in the Student Code of Conduct; violations reported to the Dean’s office."},
+  {"question":"How do I find my advisor?","answer":"Listed in ULink under “Advising Profile” with contact details."},
+  {"question":"Where can I take placement tests?","answer":"The Testing Center in SAC W122 administers ALEKS, Accuplacer, and language tests."},
+  {"question":"How do I sign up for Greek life?","answer":"Attend the spring or fall Recruitment events advertised on EngageUofL."},
+  {"question":"What is Cardinal Core?","answer":"UofL’s General Education curriculum requiring courses in five competency areas."},
+  {"question":"How do I apply for graduation?","answer":"Submit the Graduation Intent form in ULink under “Academic Records.”"},
+  {"question":"Where can I find orientation resources online?","answer":"Visit louisville.edu/orientation for videos, checklists, and FAQs."},
+  {"question":"How do I join Research Credit (BIOS 401)?","answer":"Enroll with faculty sponsor’s permission via the department office."},
+  {"question":"What is the University Writing Program?","answer":"Offers writing‑focused courses (ENGL 101/102) and workshops across campus."},
+  {"question":"Where is the J.B. Speed Art Museum?","answer":"At the corner of Alta Vista and Eastern Parkway, free for all UofL students."},
+  {"question":"How do I get tickets to Commencement?","answer":"Each graduate receives a set number of tickets—request additional online via ULink."},
+  {"question":"What is the deadline for thesis submission?","answer":"Fall graduation: October 1; Spring: March 1; Summer: June 1."},
+  {"question":"Where can I find parking zone maps?","answer":"On the Parking & Transportation website under “Maps & Permits.”"},
+  {"question":"How do I register for campus events?","answer":"Many events use Eventbrite—links are posted on UofL social media and EngageUofL."},
+  {"question":"What wellness resources are available?","answer":"Mindfulness workshops, yoga, and nutrition counseling via Campus Recreation."},
+  {"question":"Where is the Gay & Lesbian Student Center?","answer":"In SAC W310; offers support and programming for LGBTQ+ students."},
+  {"question":"How do I get help with career assessments?","answer":"Schedule an appointment at the Career Center for MBTI or Strong Interest Inventory."},
+  {"question":"What is the CARDinal App?","answer":"Mobile app for campus news, events, shuttle tracking, and maps."},
+  {"question":"How do I access the UofL mobile VPN?","answer":"Install Cisco AnyConnect and log in with your ULID and password."},
+  {"question":"Where can I find peer mentoring programs?","answer":"Listed under Student Affairs → Mentoring on UofL’s website."},
+  {"question":"How do I join intramural eSports?","answer":"Form a team on IMLeagues under the eSports category for gaming competitions."},
+  {"question":"What is the rate for guest parking?","answer":"Daily guest permits are $5/day; purchased via mobile pay or dispensers."},
+  {"question":"Where can I find disability parking?","answer":"Designated accessible spaces throughout Belknap and HSC with valid placard."},
+  {"question":"How do I request a transcript evaluation for transfer credits?","answer":"Submit official transcripts to the Office of Transfer Services in SAC W100."},
+  {"question":"What’s the process for student employment?","answer":"Search openings on Hire a Cardinal and complete I-9/hiring paperwork at HR."},
+  {"question":"How do I find UofL’s sustainability initiatives?","answer":"Visit the Sustainability Council page under Facilities & Sustainability."},
+  {"question":"Where can I learn about study abroad scholarships?","answer":"Check the Global Education Office site under “Funding Your Education Abroad.”"},
+  {"question":"How do I schedule a campus building tour?","answer":"Register for a campus visit day through Undergraduate Admissions online."},
+  {"question":"What resources exist for first-generation students?","answer":"First Generation Scholars Program in Student Affairs offers mentorship and workshops."},
+  {"question":"Where can I report bullying or harassment?","answer":"File a report via the Office of Institutional Equity portal online."},
+  {"question":"How do I apply for a graduate assistantship?","answer":"Contact your department’s graduate coordinator for application details."},
+  {"question":"What career exploration tools are available?","answer":"Use Handshake and CareerShift via the Career Center’s website."},
+  {"question":"Where can student clubs get funding?","answer":"Apply for funds through the University Student Government’s budget committee."},
+  {"question":"How do I find campus employment on campus?","answer":"Search Student Employment listings on ULink under “Jobs & Careers.”"},
+  {"question":"What cultural centers are on campus?","answer":"African American & Africana Studies Center, Latino/a Community Center, Women’s Center."},
+  {"question":"How do I report a facility maintenance issue?","answer":"Submit a work request via the Housing Portal or call Facilities at 502-852-6250."},
+  {"question":"Where can I access UofL’s research journals?","answer":"Through the Libraries’ electronic resources portal with your ULID login."},
+  {"question":"How do I join a lab as an undergraduate researcher?","answer":"Contact faculty directly or apply through departmental undergraduate research programs."},
+  {"question":"What is the policy on dropping courses?","answer":"Courses dropped by the deadline receive a W; deadlines posted in the Academic Calendar."},
+  {"question":"How do I petition for an incomplete grade?","answer":"Submit an Incomplete Grade Request form with your instructor’s approval to the Registrar."},
+  {"question":"Where can I find UofL’s Statement of Values?","answer":"On the President’s Office webpage under “Mission & Values.”"},
+  {"question":"How do I sign up for Cardinal Feedback surveys?","answer":"Invitations sent to your UofL email; complete surveys online via provided links."},
+  {"question":"What is the Family Resource Center?","answer":"Offers support and programming for students with children; located in ECC."},
+  {"question":"How do I purchase UofL athletic event tickets?","answer":"Visit the Athletics ticket office online or in-person at the KFC Yum! Center."},
+  {"question":"Where can I find campus recreational trails?","answer":"The Belknap Greenbelt and the Riverwalk Trail start near the south end of campus."}
 ]
